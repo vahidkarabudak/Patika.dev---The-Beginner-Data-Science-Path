@@ -1,4 +1,4 @@
--- 8.Assignment for SQL
+-- Assignment_8 for SQL
 
 /*
 1.Let's create a table running in your test database with column information id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100).
