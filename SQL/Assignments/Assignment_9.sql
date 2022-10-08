@@ -1,4 +1,4 @@
--- 9.Assignment for SQL
+-- Assignment_9 for SQL
 
 /*
 Perform the following query scenarios on the dvdrental sample database.
