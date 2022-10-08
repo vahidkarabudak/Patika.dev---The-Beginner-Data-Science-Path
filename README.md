@@ -10,3 +10,5 @@ Beginner Data Science Path is a free and online training provided by Patika.dev.
 * SQL
 
 Inside this repository, you can find the practices I made during this education.
+
+Note: The solutions, which exits in repository, does not belong to me totally. Some of them has been found in the internet. Thanks for their help. 
