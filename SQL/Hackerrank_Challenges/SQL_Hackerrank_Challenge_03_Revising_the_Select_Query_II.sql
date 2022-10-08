@@ -1,2 +1,2 @@
--- SQL_Hackerrank_Challenge_02_Revising_the_Select_Query_II
+-- SQL_Hackerrank_Challenge_03_Revising_the_Select_Query_II
 SELECT NAME FROM CITY WHERE POPULATION>120000 AND COUNTRYCODE ="USA";
